@@ -1,4 +1,3 @@
-
 /*
  * Consider an n-digit number k. Square it and add the right n digits to the left n or n-1 digits. 
  * If the resultant sum is k, then k is called a Kaprekar number. 
